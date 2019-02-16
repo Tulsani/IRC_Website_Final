@@ -1,0 +1,452 @@
+Uri: http://indianroverchallenge.in/
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\index.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/newhome.css
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\newhome.css
+Content Type: text/css
+
+Uri: http://indianroverchallenge.in/changeimage.css
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\changeimage.css
+Content Type: text/css
+
+Uri: http://indianroverchallenge.in/images/fav.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\fav.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/index.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\index-1.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/images/irclogo.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\irclogo.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/res.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\res.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/reg.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\reg.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/rules.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\rules.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/whysponsor.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\whysponsor.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/resources.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\resources.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/fqu.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\fqu.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/contact.html
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\contact.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/images/sidebar.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\sidebar.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/book1.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\book1.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/videof.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\videof.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/download.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\download.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/trophy.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\trophy.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/assets/IRC-Rulebook-2019.pdf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\assets\IRC-Rulebook-2019.pdf
+Content Type: application/pdf
+
+Uri: http://indianroverchallenge.in/images/mahindralogo.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\mahindralogo.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/mobile-phone.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\mobile-phone.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: http://indianroverchallenge.in/images/placeholder.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\placeholder.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/mahe.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\mahe.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/mahindralogo2.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\mahindralogo2.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/marssociety.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\marssociety.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/logo.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\logo.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/up.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\up.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/index.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\index.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/mobilemenu.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\mobilemenu.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/loaderbody.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\loaderbody.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/images/bg6.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\bg6.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/bg3.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/topimg.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\topimg.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/backy.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\backy.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/topimg-Copy.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\topimg-Copy.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/style.css
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\style.css
+Content Type: text/css
+
+Uri: http://indianroverchallenge.in/images/mahe-irc-2019.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\mahe-irc-2019.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/MRM-irc-2019.jpeg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\MRM-irc-2019.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/1.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\1.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/2.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\2.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/3.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\3.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/res.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\res.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/reg.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\reg.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/rules.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\rules.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/images/innovation.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\innovation.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/whysponsor.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\whysponsor.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/images/IRC-logo-1.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\IRC-logo-1.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/IRC-logo-2.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\IRC-logo-2.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/IRC-logo-3.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\IRC-logo-3.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/images/IRC-logo-4.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\IRC-logo-4.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/resources page images/RCS.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\resources page images\RCS.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/resources page images/TMS Banner Logo.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\resources page images\TMS Banner Logo.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/resources page images/TMS_large.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\resources page images\TMS_large.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/resources.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\resources.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/fqu.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\fqu.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/teampics/ysu.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\ysu.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/nkv.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\nkv.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/sagar.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\sagar.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/akanksha.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\akanksha.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/abhinav.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\abhinav.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/harsha.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\harsha.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/harshit.jpeg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\harshit.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/rakshit3.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\rakshit3.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/prat.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\prat.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/sayantika.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\sayantika.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/rachit.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\rachit.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/shaunj.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\shaunj.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/harshita.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\harshita.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/siril.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\siril.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/sai.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\sai.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/shaunm.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\shaunm.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/bladen.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\bladen.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/teampics/anuvind.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\teampics\anuvind.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: http://indianroverchallenge.in/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: http://indianroverchallenge.in/images/b1.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\b1.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/images/bg.jpg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-600.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-700.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300i.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400i.hxd
+Content Type: application/octet-stream
+
+Uri: http://indianroverchallenge.in/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: http://indianroverchallenge.in/cdn-cgi/images/error_icons.png
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: http://indianroverchallenge.in/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\irc2\indianroverchallenge.in\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
